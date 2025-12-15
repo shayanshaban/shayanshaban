@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hi, I'm Shayan 👋
 
-<!--
-**shayanshaban/shayanshaban** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build things where **code meets creativity**.
 
-Here are some ideas to get you started:
+I work across game development, backend systems, and interactive software — turning ideas into working systems with clean logic and solid structure.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 Skills & Technologies
+
+### 🎮 Game & Interactive Development
+- Unity (Game Development)
+- C#
+- 3ds Max (3D Modeling & Assets)
+
+### 🌐 Web & Backend
+- PHP
+- Nuxt.js
+- Backend Architecture
+- REST APIs
+
+### 🐍 Programming & Automation
+- Python
+- Problem Solving
+- Algorithmic Thinking
+
+### 🔌 Hardware & Embedded
+- Arduino
+- Sensors & Microcontrollers
+
+---
+
+## 🚀 What I Like Working On
+- Games with puzzle, escape, or system-driven mechanics  
+- Backend systems with clear logic and scalability  
+- Mixing software with hardware (code that touches the real world)  
+- Learning by building real projects, not just tutorials  
+
+---
+
+## 📊 GitHub Activity
+I focus on Web App — small steps every day that add up over time.
+
+---
+
+## 📫 Connect With Me
+- GitHub: [https://github.com/shayanshaban](https://github.com/shayanshaban)
+
+---
+
+> _"Build slowly. Build honestly. Let the work speak."_
