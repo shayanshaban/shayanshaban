@@ -47,6 +47,6 @@ I focus on Web App — small steps every day that add up over time.
 - GitHub: [https://github.com/shayanshaban](https://github.com/shayanshaban)
 
 ---
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shayanshaban&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shayanshaban&show_icons=false&theme=radical)
 
 > _"Build slowly. Build honestly. Let the work speak."_
